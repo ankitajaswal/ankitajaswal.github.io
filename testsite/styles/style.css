@@ -1,0 +1,21 @@
+html{
+    background-color: #020704;
+    font-size: 10px;
+    font-family: 'Source Serif Pro', serif;
+
+}
+
+img{
+    max-width: 50%;
+    height: 50%;
+    border: 10px solid black;
+    display: block;
+    
+}
+body{
+    width: 950px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    }
